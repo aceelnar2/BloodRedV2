@@ -1,2 +1,61 @@
-# BloodRedV2
-𝐓𝐡𝐞 𝐌𝐮𝐥𝐭𝐢𝐓𝐨𝐨𝐥 𝐰𝐢𝐭𝐡 𝐍𝐮𝐤𝐞𝐫 ! 𝐌𝐚𝐝𝐞 𝐛𝐲 Lᴜᴄᴏʙ#4329. 𝐅𝐫𝐞𝐞 𝐔𝐧𝐥𝐞𝐚𝐤𝐞𝐝 𝐌𝐮𝐥𝐭𝐢𝐓𝐨𝐨𝐥 ( 𝗕𝗟𝗢𝗢𝗗𝗥𝗘𝗗 )
+
+# 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
+
+.Most Advanced Multi Tool!
+
+.Spammer
+
+.DM Spammer
+
+.Friend Spammer
+
+.Reaction Spam
+
+.WebhookSpammer
+
+.Typing Spammer
+
+.VC Spammer
+
+.Mass DM
+
+.About / Activity
+
+.Joiner
+
+.Leaver
+
+.TokenChecker
+
+.Token Onliner
+
+.HypeSquad Joiner
+
+.NickName Changer
+
+.Status Changer
+
+.Mass Report
+
+.Server Nuker
+
+.Account Nuker
+
+.Token Generator
+
+.Token Bruteforcer
+
+.Token Grabber
+
+.Group Spammer
+
+.Tools
+
+.About
+
+.Exit
+
+
+
+
+
