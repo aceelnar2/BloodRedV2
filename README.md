@@ -1,8 +1,10 @@
 # REQUIREMENTS
 
-.Window 10/11
 .Winrar
 .Notepad++
+
+
+
 
 If you have a problem dm me in discord.✞︎✞︎#4329
 
