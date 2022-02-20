@@ -4,7 +4,7 @@
 .Winrar
 .Notepad++
 
-If you have a problem dm me in discord. ✞︎✞︎#4329
+If you have a problem dm me in discord.✞︎✞︎#4329
 
 # 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
